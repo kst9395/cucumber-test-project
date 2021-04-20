@@ -4,8 +4,12 @@
 or 
 - any java IDE that support maven 
 ## How to run
+
 clone this repository 
-`git clone https://github.com/kst9395/cucumber-test-project.git`
+
+```git clone https://github.com/kst9395/cucumber-test-project.git```
+
 in project directory run 
-`mvn test`
+
+```mvn test```
 
